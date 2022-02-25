@@ -8,3 +8,7 @@ Apples
 Doritos
 Goulash
 Carrots
+Squash
+Tacos
+Weiners
+Pies
